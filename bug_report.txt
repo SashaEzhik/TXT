@@ -1,1 +1,7 @@
-
+  STEPS: 
+	STEP_1: Open google.com
+        STEP_2: Enter in the search bar 1io1jmxnxghduoapksam0
+        STEP_3: Tap buttom Search
+        STEP_4: Click on the first link
+  EXPECTED_RESULT: Link opened
+  ACTUAL_RESULT: No results were found
