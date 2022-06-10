@@ -1,0 +1,5 @@
+Name: Aleksandra
+Age: 33
+Pets: 2 cats
+Desired_Salary: 1000$+
+
